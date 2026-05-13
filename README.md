@@ -23,7 +23,7 @@ Built for the GalaxEye Space — Satellite AI Research Intern assessment.
 
 ## Model Weights
 
-Download from Google Drive: **[best_model.pth](YOUR_GOOGLE_DRIVE_LINK_HERE)**
+Download from Google Drive: **[best_model.pth](https://drive.google.com/file/d/142gUPUSs5BshcImgBlZKfCefDcS76RsM/view?usp=sharing)**
 
 ## Requirements
 
