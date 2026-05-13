@@ -13,12 +13,13 @@ Built for the GalaxEye Space — Satellite AI Research Intern assessment.
 
 ## Results
 
+
 | Metric    | Validation | Test   |
-|-----------|-----------|--------|
-| IoU       | 0.8545    | 0.4045 |
-| Precision | 0.9482    | 0.4415 |
-| Recall    | 0.8963    | 0.8284 |
-| F1 Score  | 0.9215    | 0.5760 |
+|-----------|-------------|---------|
+| IoU       | 0.8031      | 0.3589  |
+| Precision | 0.9217      | 0.3828  |
+| Recall    | 0.8619      | 0.8521  |
+| F1 Score  | 0.8908      | 0.5283  |
 
 ## Model Weights
 
